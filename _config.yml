@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wei Li 李薇"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Don't be happy with things, don't be sad with yourself"
+  location         : "Thessaloniki - Greece"
+  employer         : "Aristotle University of Thessaloniki"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wli@meng.auth.gr" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
