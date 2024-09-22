@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2024.03 - Now: Ph.D candidate in Mechanical Engineering, [Aristotle University of Thessaloniki](https://www.auth.gr/en/), Greece
+* 2019.09 - 2022.04: M.S. in Aircraft Design, [Nanjing University of Aeronautics and Astronautics](https://www.nuaa.edu.cn/), China
+* 2015.09 - 2019.07: B.S. in Mechanical Engineering, [Henan Polytechnic University](https://www.hpu.edu.cn/), China
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024.03 - Now: Ph.D student
+  * [BETA CAE Systems](https://www.beta-cae.com/)
+  * Duties includes: Committed to developing IGA's industy development.
+  
+* 2022.04 - 2024.02: Aircraft Structural Engineer
+  * [AVIC General Huanan Aircraft Industry Co., Ltd, China](https://www.avicgeneral.com/sy/index.shtml)
+  * Duties includes:
+    * Designed, simulated, tested, and optimized hatches with CATIA, and Matlab, making hatches safer and their 
+motions smoother
+    * Coordinated efficiently the work between the on-site assembler and the designer and parts supplier
+    * Monitored the flight test, analyzed flight parameters of hatches, and did troubleshoot the aircraft
   
 Skills
 ======
