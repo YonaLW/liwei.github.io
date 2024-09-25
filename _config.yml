@@ -12,7 +12,7 @@ title                    : "Wei Li 李薇 / PhD candidate"
 title_separator          : "-"
 name                     : &name "Wei Li 李薇"
 description              : &description "Don't be happy with things, don't be sad with yourself"
-url                      : https://yonalw.github.io/liwei.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://liwei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "wli_profile.png"
   name             : "Wei Li 李薇"
   pronouns         : # example: "she/her"  
-  bio              : "Don't be happy with things, don't be sad with yourself"
+  bio              : "不以物喜，不以己悲。Don't be happy with things, don't be sad with yourself"
   location         : "Thessaloniki - Greece"
   employer         : "Aristotle University of Thessaloniki"
   uri              : # URL
