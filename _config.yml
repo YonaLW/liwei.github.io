@@ -12,7 +12,7 @@ title                    : "Wei Li 李薇 / PhD candidate"
 title_separator          : "-"
 name                     : &name "Wei Li 李薇"
 description              : &description "personal description"
-url                      : https://yonalw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yonalw.github.io/liwei.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
