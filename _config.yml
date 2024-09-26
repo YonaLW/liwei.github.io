@@ -24,7 +24,8 @@ author:
   avatar           : "wli_profile.png"
   name             : "Wei Li 李薇"
   pronouns         :  "She" 
-  bio              : "不以物喜，不以己悲。 Don't be happy with things, don't be sad with yourself"
+  bio              : "不以物喜，不以己悲 ———— 《岳阳楼记》 宋·范仲淹 
+                      Don't be happy with things, don't be sad with yourself"
   location         : "Thessaloniki - Greece"
   employer         : "Aristotle University of Thessaloniki"
   uri              : # URL
@@ -48,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
