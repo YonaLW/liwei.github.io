@@ -7,7 +7,7 @@ excerpt: 'This paper is published during the 12th Asia Conference on Mechanical 
 date: 2022-01-01
 venue: 'Journal of Physics: Conference Series, Volume 2235'
 paperurl: 'https://github.com/YonaLW/liwei.github.io/blob/master/files/Conference_paper1.pdf'
-citation: 'Li W, Chen Z, Guo Y. Model order reduction for structural nonlinear dynamic analysis based on Isogeometric 
+citation: '**[Li W]**, Chen Z, Guo Y. Model order reduction for structural nonlinear dynamic analysis based on Isogeometric 
 analysis[C]//Journal of Physics: Conference Series. IOP Publishing, 2022, 2235(1): 012073'
 ---
 
