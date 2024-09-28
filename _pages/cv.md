@@ -21,7 +21,7 @@ Work experience
   * [BETA CAE Systems](https://www.beta-cae.com/)
   * Duties includes: Committed to developing IGA's industy development.
   
-* **[2022.04 - 2024.02:]** Aircraft Structural Engineer
+* **[2022.04 - 2024.02:]** [AG600](https://www.avicgeneral.com/cpyyw/tyfjcp/jl600/index.shtml) Aircraft Structural Engineer
   * [AVIC General Huanan Aircraft Industry Co., Ltd, China](https://www.avicgeneral.com/sy/index.shtml)
   * Duties includes:
     * Designed, simulated, tested, and optimized hatches with CATIA, and Matlab, making hatches safer and their 
