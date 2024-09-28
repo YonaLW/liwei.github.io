@@ -2,11 +2,11 @@
 title: "Model order reduction for structural nonlinear dynamic analysis based on Isogeometric analysis"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/Conference_paper1
 excerpt: 'This paper is published during the 12th Asia Conference on Mechanical and Aerospace Engineering (ACMAE 2021) 29/12/2021-31/12/2021 Online'
 date: 2022-01-01
 venue: 'Journal of Physics: Conference Series, Volume 2235'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://github.com/YonaLW/liwei.github.io/blob/master/files/Conference_paper1.pdf'
 citation: 'Li W, Chen Z, Guo Y. Model order reduction for structural nonlinear dynamic analysis based on Isogeometric 
 analysis[C]//Journal of Physics: Conference Series. IOP Publishing, 2022, 2235(1): 012073'
 ---
