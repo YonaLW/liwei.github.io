@@ -2,7 +2,7 @@
 title: "Model order reduction for nonlinear dynamic analysis of parameterized curved beam structures based on Isogeometric analysis"
 collection: publications
 category: manuscripts
-permalink: https://github.com/YonaLW/liwei.github.io/blob/68d493a5641ecc854ad6b09211355b7de5523361/_publications/Journal_Paper1.md
+permalink: /publication/Journal_Paper1
 excerpt: 'This paper researched Moder order reduction in the frame work of IGA.'
 date: 2022-06-01
 venue: 'Engineering Mechanics Volume 39 Issue 8'
