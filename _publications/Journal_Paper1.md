@@ -6,7 +6,7 @@ permalink: https://github.com/YonaLW/liwei.github.io/blob/68d493a5641ecc854ad6b0
 excerpt: 'This paper researched Moder order reduction in the frame work of IGA.'
 date: 2022-06-01
 venue: 'Engineering Mechanics Volume 39 Issue 8'
-paperurl: 'https://github.com/YonaLW/liwei.github.io/blob/76567a590a1ef649a092ba7e2b5715def0abd2a0/files/Journal_Paper1.pdf'
+paperurl: 'files/Journal_Paper1.pdf'
 citation: 'Guo Yujie, Wu Hanlang, Li Wei. Model order reduction for nonlinear dynamic analysis of parameterized curved beam structures based on Isogeometric analysis[J]. Engineering mechanics. doi 10.6052/j.issn.1000-4750.2021.04.0285'
 ---
 
