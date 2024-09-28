@@ -28,3 +28,9 @@ Work experience
 motions smoother
     * Coordinated efficiently the work between the on-site assembler and the designer and parts supplier
     * Monitored the flight test, analyzed flight parameters of hatches, and did troubleshoot the aircraft
+      
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
