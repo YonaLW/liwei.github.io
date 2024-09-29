@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "Greece"
-title                    : "Wei Li 李薇 / PhD candidate"
+title                    : "Wei LI 李薇 / PhD candidate"
 title_separator          : "-"
-name                     : &name "Wei Li 李薇"
+name                     : &name "Wei LI 李薇"
 description              : &description "personal description"
 url                      : https://yonalw.github.io/liwei.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "wli_profile.png"
-  name             : "Wei Li 李薇"
+  name             : "Wei LI 李薇"
   pronouns         :  "She" 
   bio              : "不以物喜，不以己悲 ——《岳阳楼记》 宋·范仲淹 Don't be happy with things, don't be sad with yourself"
   location         : "Thessaloniki - Greece"
