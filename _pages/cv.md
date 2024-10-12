@@ -36,7 +36,7 @@ Project experience
 
 * **[2022.04 - 2024.02]:** Aviation Industry Corporation of China (AVIC), the large amphibious aircraft project"[AVIC AG600 Kunlong](https://www.avicgeneral.com/cpyyw/tyfjcp/jl600/index.shtml)", Structural Designer
   * Description:
-    * The AG600, also known as TA-600, is the world’s biggest amphibious aircraft developed by Chinese state aircraft manufacturer, Aviation Industry Corporation of China (AVIC). [News](https://www.aerospace-technology.com/projects/ag600-amphibious-aircraft/)  
+    * The AG600, also known as TA-600, is the world’s biggest amphibious aircraft developed by Chinese state aircraft manufacturer, Aviation Industry Corporation of China (AVIC). [News](https://english.www.gov.cn/news/202409/01/content_WS66d3a6d9c6d0868f4e8ea68e.html)  
   * Duties include:
     * Wrote the design and maintenance report and MOC test report for the hatches and airborne equipment of AG600
     * Programmed with Matlab, extract and analyze efficiently the flight parameters of sensor data
