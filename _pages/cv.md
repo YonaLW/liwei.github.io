@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* **[2024.03 - Now]:** [BETA CAE Systems](https://www.beta-cae.com/), Ph.D. student
+* **[2024.03 - Now]:** [Beta-CAE](https://www.beta-cae.com/), Ph.D. student
   * Duties include: Committed to developing IGA's industrial development.
   
 * **[2022.04 - 2024.02]:** [AVIC General Huanan Aircraft Industry Co., Ltd, China](https://www.avicgeneral.com/sy/index.shtml), Aircraft Engineer
