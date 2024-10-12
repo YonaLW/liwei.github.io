@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* **[2024.03 - Now]:** [Beta-CAE](https://www.beta-cae.com/), Ph.D. student
+* **[2024.03 - Now]:** [Beta-CAE](https://www.beta-cae.com/), Greece. Ph.D. student
   * Duties include: Committed to developing IGA's industrial development.
   
 * **[2022.04 - 2024.02]:** [AVIC General Huanan Aircraft Industry Co., Ltd, China](https://www.avicgeneral.com/sy/index.shtml), Aircraft Engineer
@@ -29,10 +29,14 @@ Work experience
 Project experience
 ======
 * **[2024.03 - Now]:**  [EU GECKO project “Design for IGA-type discretization workflows”](https://gecko.cimne.com/), Researcher
+  * Description:
+    *  The main objective of the GECKO project is to bridge the existing gap between the CAD and the computational models (CAE) and integrate them within the industrial workflow. This will imply collaborating with industries in enhancing the adoption of the technology within commercial solvers and adapting existing open source frameworks so that they can hook into the industrial practice and thus remain relevant in the foreseeable future.
   * Duties include:
     * Implementation of IGA in the design and analysis workflow of machine elements and systems
 
-* **[2022.04 - 2024.02]:** [AG600](https://www.avicgeneral.com/cpyyw/tyfjcp/jl600/index.shtml), Structural Designer
+* **[2022.04 - 2024.02]:** Aviation Industry Corporation of China (AVIC), the large amphibious aircraft project"[AVIC AG600 Kunlong](https://www.avicgeneral.com/cpyyw/tyfjcp/jl600/index.shtml)", Structural Designer
+  * Description:
+    * The AG600, also known as TA-600, is the world’s biggest amphibious aircraft developed by Chinese state aircraft manufacturer, Aviation Industry Corporation of China (AVIC). [News](https://www.aerospace-technology.com/projects/ag600-amphibious-aircraft/)  
   * Duties include:
     * Wrote the design and maintenance report and MOC test report for the hatches and airborne equipment of AG600
     * Programmed with Matlab, extract and analyze efficiently the flight parameters of sensor data
