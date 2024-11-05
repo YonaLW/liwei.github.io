@@ -25,6 +25,7 @@ Work experience
     * Designed, simulated, tested, and optimized hatches with CATIA, and MATLAB, made hatches safer and their motions smoother
     * Coordinated efficiently the work between the on-site assembler, designers and parts suppliers
     * Monitored the flight tests, analyzed flight parameters of hatches, and did troubleshooting the aircrafts
+    * Design MOC experiments for hatch doors and their sensors, monitor and implement and record and report MOC experiment results, to support the aircraft applying for airworthiness certificate
 
 Project experience
 ======
@@ -41,6 +42,7 @@ Project experience
     * Wrote the design and maintenance report and MOC test report for the hatches and airborne equipment of AG600
     * Programmed with Matlab, extract and analyze efficiently the flight parameters of sensor data
     * Recorded and analyzed the motion of hatches, and optimized their structural dimensions
+    * Structural optimization design of the float, to enhance AG600's wave resistance ability in case of in the Mediterranean region
 
 Publications
 ======
