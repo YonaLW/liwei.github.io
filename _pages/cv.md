@@ -39,9 +39,9 @@ Project experience
   * Description:
     * The AG600, also known as TA-600, is the world’s biggest amphibious aircraft developed by Chinese state aircraft manufacturer, Aviation Industry Corporation of China (AVIC). [News](https://english.www.gov.cn/news/202409/01/content_WS66d3a6d9c6d0868f4e8ea68e.html)  
   * Duties include:
-    * Wrote the design and maintenance report and MOC test report for the hatches and airborne equipment of AG600
+    * Wrote the design and maintenance report and MOC test report for the hatches and airborne equipments of AG600
     * Programmed with Matlab, extract and analyze efficiently the flight parameters of sensor data
-    * Recorded and analyzed the motion of hatches, and optimized their structural dimensions
+    * Recorded and analyzed the motion of hatches, and optimized their structures
     * Structural optimization design of the float, to enhance AG600's wave resistance ability in case of in the Mediterranean region
 
 Publications
@@ -49,3 +49,13 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Patent
+======
+* **[Title]:** Bidirectional Anti-Collision Locking Mechanism with Dual Position Limiting
+* **[Patent Number]:** CN202323248123.0
+* **[Filed]:** 29-11-2023
+* **[Inventor Order]:** The 5th Inventor
+* **[Description]:** This utility model pertains to the technical field of aircraft components, allows for position-limiting in both closed and open directions while also providing collision prevention, reduces weight and assembly space compared to conventional multi-mechanism designs while enhancing position-limiting and adjustment capabilities.
+
+
