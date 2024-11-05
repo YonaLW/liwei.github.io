@@ -53,9 +53,10 @@ Publications
 Patent
 ======
 * **[Title]:** Bidirectional Anti-Collision Locking Mechanism with Dual Position Limiting
-* **[Patent Number]:** CN202323248123.0
-* **[Filed]:** 29-11-2023
-* **[Inventor Order]:** The 5th Inventor
-* **[Description]:** This utility model pertains to the technical field of aircraft components, allows for position-limiting in both closed and open directions while also providing collision prevention, reduces weight and assembly space compared to conventional multi-mechanism designs while enhancing position-limiting and adjustment capabilities.
+  * Patent Number: CN202323248123.0
+  * Filed: 29-11-2023
+  * Inventor Order]: The 5th Inventor
+  * Description:
+  *  This utility model pertains to the technical field of aircraft components, allows for position-limiting in both closed and open directions while also providing collision prevention, reduces weight and assembly space compared to conventional multi-mechanism designs while enhancing position-limiting and adjustment capabilities.
 
 
