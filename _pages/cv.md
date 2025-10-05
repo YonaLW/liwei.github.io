@@ -44,6 +44,11 @@ Project experience
     * Recorded and analyzed the motion of hatches, and optimized their structures
     * Structural optimization design of the float, to enhance AG600's wave resistance ability in case of in the Mediterranean region
 
+Visiting Activities
+======
+* **[2024.05.01 - 2024.07.23]:**  [Technische Universität Braunschweig](https://www.tu-braunschweig.de/en/)[Institute of Structural Analysis](https://www.tu-braunschweig.de/en/isd), Researcher
+* **[2025.10.01 - 2025.12.19]:**  [Applus+ IDIADA]([https://gecko.cimne.com/](https://www.applusidiada.com/global/es/)), Researcher
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
