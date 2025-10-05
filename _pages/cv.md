@@ -46,8 +46,8 @@ Project experience
 
 Visiting Activities
 ======
-* **[2024.05.01 - 2024.07.23]:**  [Technische Universität Braunschweig](https://www.tu-braunschweig.de/en/)[Institute of Structural Analysis](https://www.tu-braunschweig.de/en/isd), Researcher
-* **[2025.10.01 - 2025.12.19]:**  [Applus+ IDIADA]([https://gecko.cimne.com/](https://www.applusidiada.com/global/es/)), Researcher
+* **[2024.05.01 - 2024.07.23]:**  Germany, [Technische Universität Braunschweig](https://www.tu-braunschweig.de/en/), [Institute of Structural Analysis](https://www.tu-braunschweig.de/en/isd), Researcher
+* **[2025.10.01 - 2025.12.19]:**  Spain, [Applus+ IDIADA]([https://gecko.cimne.com/](https://www.applusidiada.com/global/es/)), Researcher
 
 Publications
 ======
