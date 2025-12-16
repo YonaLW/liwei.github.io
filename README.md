@@ -1,5 +1,5 @@
 # Academic Pages
-[my page](https://yonalw.github.io/liwei.github.io//cv/)
+[my page](https://yonalw.github.io/liwei.github.io//)
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
 [![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
 
