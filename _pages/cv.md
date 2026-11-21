@@ -31,11 +31,14 @@ Project experience
     *  The main objective of the GECKO project is to bridge the existing gap between the CAD and the computational models (CAE) and integrate them within the industrial workflow. This will imply collaborating with industries in enhancing the adoption of the technology within commercial solvers and adapting existing open source frameworks so that they can hook into the industrial practice and thus remain relevant in the foreseeable future.
   * Duties include:
     * Implementation of IGA in the design and analysis workflow of machine elements and systems
-
+* **[2019.09 - 2022.04]:**  [China National Natural Science Foundation (Grant no. 11972187, 12002161)], Researcher
+  * Developed IGA-based reduced-order models combining Proper Orthogonal Decomposition (POD) and the Discrete Empirical Interpolation Method (DEIM) for nonlinear dynamic analysis of parameterized Kirchhoff--Love shell structures, improving computational efficiency by 50%.
+  * Generated and analyzed cylindrical-shell deformation data using Abaqus and Grasshopper to support model development, verification, and validation.
 
 Visiting Activities
 ======
-* **[2025.10.01 - 2025.12.19]:**  Spain, [Applus+ IDIADA]([https://gecko.cimne.com/](https://www.applusidiada.com/global/es/)), Researcher
+* **[2024.04.01 - 2026.04.30]:**  Greece, [BETA CAE Systems](https://www.cadence.com/en_US/home/tools/engineering-simulation.html), Researcher
+* **[2025.10.01 - 2025.12.19]:**  Spain, [Applus+ IDIADA](https://www.applusidiada.com/global/es/), Researcher
 * **[2024.05.01 - 2024.07.23]:**  Germany, [Technische Universität Braunschweig](https://www.tu-braunschweig.de/en/), [Institute of Structural Analysis](https://www.tu-braunschweig.de/en/isd), Researcher
 
 
