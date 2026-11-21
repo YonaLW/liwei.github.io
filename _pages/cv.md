@@ -17,15 +17,12 @@ Education
 
 Work experience
 ======
-* **[2024.03 - Now]:** [Beta-CAE](https://www.beta-cae.com/), Greece. Ph.D. student
-  * Duties include: Committed to developing IGA's industrial development.
-  
-* **[2022.04 - 2024.02]:** [AVIC General Huanan Aircraft Industry Co., Ltd, China](https://www.avicgeneral.com/sy/index.shtml), Aircraft Engineer
-  * Duties include:
-    * Designed, simulated, tested, and optimized hatches with CATIA, and MATLAB, made hatches safer and their motions smoother
-    * Coordinated efficiently the work between the on-site assembler, designers and parts suppliers
-    * Monitored the flight tests, analyzed flight parameters of hatches, and did troubleshooting the aircrafts
-    * Design MOC experiments for hatch doors and their sensors, monitor and implement and record and report MOC experiment results, to support the aircraft applying for airworthiness certificate
+ * **[2022.04 - 2024.02]:** [AVIC General Huanan Aircraft Industry Co., Ltd, China](https://www.avicgeneral.com/sy/index.shtml), Aircraft Structural Design Engineer
+    * Optimized the existing AG600 airdrop-hatch mechanism and designed mounting arrangements for hatch-door proximity switches in CATIA V5, while supporting maintenance engineering.
+    * Developed a MATLAB tool to time-synchronize hatch-door proximity-switch signals with flight parameters and engine operating data, replacing manual screening and accelerating anomaly detection and fault localization during ground and flight tests.
+    * Planned and reviewed Means of Compliance (MoC) test procedures for AG600 hatch-door proximity-switch and actuation systems, identified additional qualification requirements, and prepared supporting airworthiness certification documentation.
+    * Coordinated cross-functional design, on-site assembly, and supplier teams to resolve design, installation, and operational issues.
+    * Contributed to the structural design and wave-resistance optimization of AG600 float structures.
 
 Project experience
 ======
@@ -35,19 +32,12 @@ Project experience
   * Duties include:
     * Implementation of IGA in the design and analysis workflow of machine elements and systems
 
-* **[2022.04 - 2024.02]:** [Aviation Industry Corporation of China (AVIC) Aircraft project “AG600 Kunlong”](https://www.avicgeneral.com/cpyyw/tyfjcp/jl600/index.shtml), Structural Designer
-  * Description:
-    * The AG600, also known as TA-600, is the world’s biggest amphibious aircraft developed by Chinese state aircraft manufacturer, Aviation Industry Corporation of China (AVIC). [News](https://english.www.gov.cn/news/202409/01/content_WS66d3a6d9c6d0868f4e8ea68e.html)  
-  * Duties include:
-    * Wrote the design and maintenance report and MOC test report for the hatches and airborne equipments of AG600
-    * Programmed with Matlab, extract and analyze efficiently the flight parameters of sensor data
-    * Recorded and analyzed the motion of hatches, and optimized their structures
-    * Structural optimization design of the float, to enhance AG600's wave resistance ability in case of in the Mediterranean region
 
 Visiting Activities
 ======
-* **[2024.05.01 - 2024.07.23]:**  Germany, [Technische Universität Braunschweig](https://www.tu-braunschweig.de/en/), [Institute of Structural Analysis](https://www.tu-braunschweig.de/en/isd), Researcher
 * **[2025.10.01 - 2025.12.19]:**  Spain, [Applus+ IDIADA]([https://gecko.cimne.com/](https://www.applusidiada.com/global/es/)), Researcher
+* **[2024.05.01 - 2024.07.23]:**  Germany, [Technische Universität Braunschweig](https://www.tu-braunschweig.de/en/), [Institute of Structural Analysis](https://www.tu-braunschweig.de/en/isd), Researcher
+
 
 Publications
 ======
@@ -57,7 +47,7 @@ Publications
 
 Patent
 ======
-* **[Title]:** Bidirectional Anti-Collision Locking Mechanism with Dual Position Limiting
+* **[Title]:** Anti-Collision Latch Device with Bidirectional Limiting
   * Patent Number: CN202323248123.0
   * Filed: 29-11-2023
   * Inventor Order]: The 5th Inventor
